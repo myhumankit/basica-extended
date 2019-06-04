@@ -4,8 +4,6 @@
 
 Un dispositif modulaire permettant de tester différentes interfaces (boutons d’arcade, pédalier, gyroscope, etc.) en émulant un clavier, une souris, un gamepad ou un contrôleur MIDI usb.
 
-![featured_image](https://raw.githubusercontent.com/myhumankit/myworkshop/master/images/default_featured_image.jpg)
-
 ## Liens
  * [documentation du projet](https://docs.humanlab.me/myhumankit/basica-extended)
  * [page d'accueil du projet sur le GesLab](https://rennes.humanlab.me/projet/basica-extended/)
@@ -39,6 +37,7 @@ Si vous souhaitez contribuer au projet, merci de créer une _issue_ ou de _forke
 Ce projet est diffusé sous la licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de details.
 
 ## Contributeurs
+ * **Nicolas Huchet** - [Bionicohand](https://bionico.org/)
  * **Julien Lebunetel** - [jlebunetel](https://github.com/jlebunetel)
 
 ---
@@ -78,4 +77,5 @@ If you'd like to contribute, please raise an issue or fork the repository and us
 The code in this project is licensed under MIT license. See the [LICENSE](LICENSE) file for details.
 
 ## Contributors
+ * **Nicolas Huchet** - [Bionicohand](https://bionico.org/)
  * **Julien Lebunetel** - [jlebunetel](https://github.com/jlebunetel)
