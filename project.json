@@ -1,0 +1,37 @@
+{
+    "project": {
+        "full_name": "Basica extended",
+        "slug": "basica-extended",
+        "short_description": "Un dispositif modulaire permettant de tester différentes interfaces (boutons d’arcade, pédalier, gyroscope, etc.) en émulant un clavier, une souris, un gamepad ou un contrôleur MIDI usb.",
+        "lang": "fr",
+        "license": "CC BY",
+        "about": "Un dispositif modulaire permettant de tester différentes interfaces (boutons d’arcade, pédalier, gyroscope, etc.) en émulant un clavier, une souris, un gamepad ou un contrôleur MIDI usb.",
+        "status": "draft",
+        "links": [
+            {
+                "url": "https://rennes.humanlab.me/projet/basica-extended/",
+                "text": "page d'accueil du projet sur le GesLab",
+                "fa5_icon": "fas fa-home"
+            },
+            {
+                "url": "http://wikilab.myhumankit.org/index.php?title=Projets:Basica_extended",
+                "text": "page wiki du projet sur le wiki du Humanlab",
+                "fa5_icon": "fab fa-wikipedia-w"
+            },
+            
+            {
+                "url": "https://github.com/myhumankit/basica-extended",
+                "text": "code source de la documentation sur GitHub",
+                "fa5_icon": "fab fa-github"
+            }
+        ],
+        "contributors": [
+            {
+                "full_name": "Julien Lebunetel",
+                "email": "julien@myhumankit.org",
+                "github_username": "jlebunetel",
+                "role": "Fabmanager référent"
+            }
+        ]
+    }
+}
